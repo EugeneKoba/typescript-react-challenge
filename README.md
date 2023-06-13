@@ -134,6 +134,10 @@ The goal of the carousel bonus would be to:
 2. Use CSS to animate and transition between the elements. The
    `@emotion/styled` library has been included for this purpose and a
    couple of Styled components could be created to achieve this feature.
+   
+I was able to create this carousel slider with Typescript
+Learning points
+- I was able to implement IDE's, and will continue to practice this to improve.
 
 References:
 - https://emotion.sh/docs/styled
